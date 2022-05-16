@@ -11,6 +11,10 @@ export default {
 </script>
 
 <style scoped>
+div {
+  margin-bottom: 60px;
+}
+
 h1 {
   color: yellowgreen;
 }
